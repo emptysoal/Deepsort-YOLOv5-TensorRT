@@ -1,4 +1,5 @@
 # Deepsort-YOLOv5-TensorRT
+[README中文版](https://github.com/emptysoal/Deepsort-YOLOv5-TensorRT/blob/main/README-chinese.md)
 
 ## Introduction
 
