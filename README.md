@@ -4,7 +4,7 @@
 
 - 基于 `TensorRT-v8.2` ，加速`YOLOv5-v5.0` + `deepsort` 的目标跟踪；
 - 在 `Jetson nano` 上进行部署；
-- 在 `Linux x86_64` 系统上也是可行的，需要修改本项目中所有的 `Makefile` 和 `CMakeLists.txt` ，把这 2 种文件里 `TensorRT` 和 `OpenCV` 头文件、库文件的路径换成对应系统的即可，`CUDA`的路径一般不用修改，最好也确认下。
+- 在 `Linux x86_64` 系统上也是可行的，需要修改本项目中所有的 `Makefile` 和 `CMakeLists.txt` ，把这 2 种文件里 `TensorRT` 和 `OpenCV` 的头文件、库文件的路径换成对应系统的即可，`CUDA`的路径一般不用修改，最好也确认下。
 
 ## 项目效果
 
